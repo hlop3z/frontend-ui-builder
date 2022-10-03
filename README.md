@@ -29,7 +29,4 @@ git clone https://github.com/hlop3z/frontend-ui-builder.git
 
 ## Demo
 
-<video controls autoplay style="height: 90vh; width: 90vw; margin-top: -80px;">
-  <source src="https://github.com/hlop3z/frontend-ui-builder/blob/main/static/demo.mp4?raw=true" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Alt Text](./static/demo.gif)
