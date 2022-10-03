@@ -69,7 +69,6 @@ function saveCode() {
 
 function buttonPreview() {
 	const { components } = $ui.store;
-	saveCode();
 	components.api
 		.transformHTML(current.template, current.script)
 		.then((data) => {
@@ -77,6 +76,7 @@ function buttonPreview() {
 			current.transformed = code;
 			components.action.update(current);
 			view = 'preview';
+			m.redraw();
 		});
 }
 

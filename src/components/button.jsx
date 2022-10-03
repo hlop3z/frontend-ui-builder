@@ -7,7 +7,6 @@ export default {
 	view(vnode) {
 		const { style } = vnode.state;
 		const { onclick, text } = vnode.attrs;
-		console.log(vnode.attrs.icon);
 		return (
 			<button
 				onclick={onclick}

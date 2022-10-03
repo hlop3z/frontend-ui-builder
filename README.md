@@ -26,3 +26,8 @@ git clone https://github.com/hlop3z/frontend-ui-builder.git
 ```sh
 ./run.sh
 ```
+
+<video controls autoplay style="height: 90vh; width: 90vw">
+  <source src="./static/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
