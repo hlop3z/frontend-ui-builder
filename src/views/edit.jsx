@@ -69,6 +69,7 @@ function saveCode() {
 
 function buttonPreview() {
 	const { components } = $ui.store;
+	saveCode();
 	components.api
 		.transformHTML(current.template, current.script)
 		.then((data) => {

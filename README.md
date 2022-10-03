@@ -9,6 +9,11 @@
 - [CORS](https://www.npmjs.com/package/cors)
 
 
+## Download
+
+```sh
+git clone https://github.com/hlop3z/frontend-ui-builder.git
+```
 
 ## Installation
 
