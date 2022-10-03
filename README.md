@@ -29,4 +29,5 @@ git clone https://github.com/hlop3z/frontend-ui-builder.git
 
 ## Demo
 
-![Alt Text](./static/demo.gif)
+https://user-images.githubusercontent.com/23062270/193685007-6b048cf8-d199-4b30-b2b5-d3b5d3677c62.mp4
+
