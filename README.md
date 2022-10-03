@@ -2,6 +2,7 @@
 
 - [Mithril](https://mithril.js.org/)
 - [Vite](https://vitejs.dev/)
+- [Prettier](https://prettier.io/docs/en/index.html)
 - [Material Design Icons](https://pictogrammers.github.io/@mdi/font/6.9.96/)
 - [SQLite3](https://www.npmjs.com/package/sqlite3)
 - [Bluebird](https://www.npmjs.com/package/bluebird)
