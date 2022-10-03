@@ -10,3 +10,14 @@
 
 
 
+## Installation
+
+```sh
+./run.sh install
+```
+
+## Server (Dev.)
+
+```sh
+./run.sh
+```
